@@ -3,7 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Stage 1 Button
+  - Stage 2 Button
+  - Stage 3 Button
+  - Exit Button
+  - Restart
+  - Level Select
+  - Left
+  - Down
+  - Up
+  - Right
+  - A
+  - D
   layers:
   - Default
   - TransparentFX
